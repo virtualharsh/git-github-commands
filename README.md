@@ -63,4 +63,8 @@
 ## delete branch
 > git branch -d branch-name
 
-This is new data
+## git stash to stash changes before changing branch
+> git stash
+
+## revert the stashed changes 
+> git stash apply

@@ -59,3 +59,6 @@
 
 ## merge branch with another branch
 > git merge branch-name
+
+## delete branch
+> git branch -d branch-name

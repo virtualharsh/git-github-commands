@@ -6,6 +6,12 @@
 ## add files 
 > git add "path"
 
+## config username and email before commit
+
+> git config --global user.name "name"
+
+> git config --global user.email "email"
+
 ## commit files
 > git commit -m "message"
 

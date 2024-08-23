@@ -43,3 +43,8 @@
 ## list all remote branches
 > git branch -r
 
+## create new branch
+> git branch branch-name
+
+## switch between branches
+> git switch branch-name

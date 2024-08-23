@@ -34,3 +34,12 @@
 ## remove git
 > rm -rf .git
 
+## know current branch name
+> git branch
+
+## list all branches
+> git branch -a
+
+## list all remote branches
+> git branch -r
+

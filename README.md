@@ -50,3 +50,6 @@
 > git switch branch-name
 
 > git checkout branch-name
+
+## merge branch with another branch
+> git merge branch-name

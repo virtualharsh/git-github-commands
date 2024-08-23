@@ -53,3 +53,4 @@
 
 ## merge branch with another branch
 > git merge branch-name
+Hi

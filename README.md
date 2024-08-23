@@ -68,3 +68,6 @@
 
 ## revert the stashed changes 
 > git stash apply
+
+## delete / clear the stash
+> git stash clear

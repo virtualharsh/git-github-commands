@@ -48,3 +48,5 @@
 
 ## switch between branches
 > git switch branch-name
+
+> git checkout branch-name

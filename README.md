@@ -71,6 +71,3 @@
 
 ## delete / clear the stash
 > git stash clear
-
-# Github Collaboration commands
-

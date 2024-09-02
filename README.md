@@ -74,3 +74,12 @@
 
 # Github Collaboration commands
 
+## user will clone repository after added as a collaborator
+> git clone URL
+
+## user will create new branch of his-her name or feature
+> git branch branch-name
+
+## user will do all his-her work in that respective branch
+## user will push the branch
+> git push -u origin branch-name

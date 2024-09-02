@@ -1,4 +1,4 @@
-# GITHUB COMMANDS
+# GIT COMMANDS
 
 ## to config a local git repository
 > git init 
@@ -71,3 +71,6 @@
 
 ## delete / clear the stash
 > git stash clear
+
+# Github Collaboration commands
+
